@@ -14,6 +14,7 @@ I am looking for senior backend, platform or AI-product engineering roles, remot
 - [ecs-drain-scaler](https://github.com/Abdelwahab313/ecs-drain-scaler): drain-aware queue scaler for ECS Fargate workers, so scale-in and deployments only ever stop idle tasks. In progress: the ADRs, a register of AWS behaviour with sources, and the tested policy core are in. The Lambda, worker library and Terraform module are next.
 - [handoff-mcp-server](https://github.com/Abdelwahab313/handoff-mcp-server): MCP server that saves and restores an agent's task context as a validated briefing instead of a transcript. Small and typed on purpose.
 - [efy-finance-radar](https://github.com/Abdelwahab313/efy-finance-radar): paper-portfolio advisor for the Egyptian Exchange that separates what to own from when to act. Python, FastAPI, Next.js.
+- [kube-playground](https://github.com/Abdelwahab313/kube-playground): hands-on Kubernetes tutorial, 13 lessons from Docker/Compose to production-ready clusters - scheduling and node ops on kind, security hardening, Prometheus, cert-manager and backup/DR. Each lesson ends with a quiz, a build-from-scratch task and a `check.sh` grader.
 
 ## Experience
 
